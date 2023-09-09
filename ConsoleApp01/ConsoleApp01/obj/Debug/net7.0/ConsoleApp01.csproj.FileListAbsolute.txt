@@ -1,0 +1,14 @@
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/bin/Debug/net7.0/ConsoleApp01
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/bin/Debug/net7.0/ConsoleApp01.deps.json
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/bin/Debug/net7.0/ConsoleApp01.runtimeconfig.json
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/bin/Debug/net7.0/ConsoleApp01.dll
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/bin/Debug/net7.0/ConsoleApp01.pdb
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/obj/Debug/net7.0/ConsoleApp01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/obj/Debug/net7.0/ConsoleApp01.AssemblyInfoInputs.cache
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/obj/Debug/net7.0/ConsoleApp01.AssemblyInfo.cs
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/obj/Debug/net7.0/ConsoleApp01.csproj.CoreCompileInputs.cache
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/obj/Debug/net7.0/ConsoleApp01.dll
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/obj/Debug/net7.0/refint/ConsoleApp01.dll
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/obj/Debug/net7.0/ConsoleApp01.pdb
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/obj/Debug/net7.0/ConsoleApp01.genruntimeconfig.cache
+/Users/jvasquezqm/Documentos/ESAN/2023-II/DESARROLLO WEB/PROYECTOS/Semana3/ConsoleApp01/ConsoleApp01/obj/Debug/net7.0/ref/ConsoleApp01.dll
